@@ -7,6 +7,18 @@
             <hr />
         </div>
         <form>
+            <!-- username  -->
+             <!-- first div for the email -->
+            <div class="form-group">
+                <label>FirstName</label>
+                <input type="text" class="form-control"/>
+            </div>
+            <!-- Lastname -->
+             <!-- first div for the email -->
+            <div class="form-group">
+                <label>LastName</label>
+                <input type="text" class="form-control"/>
+            </div>
             <!-- first div for the email -->
             <div class="form-group">
                 <label>Email</label>

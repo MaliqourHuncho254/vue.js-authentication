@@ -13,4 +13,7 @@ npm run serve
 ----
 npm install vue-router@next
 ----
-###
+### installation of the second resource
+----
+npm install vue-resource
+----f
